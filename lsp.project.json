@@ -1,0 +1,9 @@
+{
+  "name": "rbx-fetch-lsp",
+  "tree": {
+    "$path": "packages",
+    "Fetch": {
+      "$path": "default.project.json"
+    }
+  }
+}

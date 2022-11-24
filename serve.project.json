@@ -1,0 +1,14 @@
+{
+  "name": "rbx-fetch-serve",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "Packages": {
+        "$path": "packages",
+        "Fetch": {
+          "$path": "default.project.json"
+        }
+      }
+    }
+  }
+}
